@@ -1,0 +1,20 @@
+# AyuGram Custom - Python Dependencies
+
+# TDLib Python wrapper
+python-telegram>=0.18.0
+
+# Additional utilities
+aiohttp>=3.9.0
+aiofiles>=23.2.0
+python-dotenv>=1.0.0
+
+# Optional: GUI support (uncomment if needed)
+# PyQt5>=5.15.0
+# PySide6>=6.6.0
+
+# Optional: Better logging
+coloredlogs>=15.0.1
+
+# Optional: Advanced CLI
+click>=8.1.0
+rich>=13.0.0
